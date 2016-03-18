@@ -1,0 +1,10 @@
+D:\Users\Y400\Desktop\毕业设计\main\lalala\bin\Debug\main.exe
+D:\Users\Y400\Desktop\毕业设计\main\lalala\bin\Debug\main.pdb
+D:\Users\Y400\Desktop\毕业设计\main\lalala\bin\Debug\main.xml
+D:\Users\Y400\Desktop\毕业设计\main\lalala\obj\x86\Debug\main.Form1.resources
+D:\Users\Y400\Desktop\毕业设计\main\lalala\obj\x86\Debug\main.Resources.resources
+D:\Users\Y400\Desktop\毕业设计\main\lalala\obj\x86\Debug\main.vbproj.GenerateResource.Cache
+D:\Users\Y400\Desktop\毕业设计\main\lalala\obj\x86\Debug\main.exe
+D:\Users\Y400\Desktop\毕业设计\main\lalala\obj\x86\Debug\main.xml
+D:\Users\Y400\Desktop\毕业设计\main\lalala\obj\x86\Debug\main.pdb
+D:\Users\Y400\Desktop\毕业设计\main\lalala\bin\Debug\MySql.Fabric.Plugin.dll

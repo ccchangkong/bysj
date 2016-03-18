@@ -1,0 +1,12 @@
+D:\Users\Y400\Desktop\程序\129\lalala\lalala\bin\Debug\lalala.exe
+D:\Users\Y400\Desktop\程序\129\lalala\lalala\bin\Debug\lalala.pdb
+D:\Users\Y400\Desktop\程序\129\lalala\lalala\bin\Debug\lalala.xml
+D:\Users\Y400\Desktop\程序\129\lalala\lalala\obj\x86\Debug\lala.Form1.resources
+D:\Users\Y400\Desktop\程序\129\lalala\lalala\obj\x86\Debug\lala.Resources.resources
+D:\Users\Y400\Desktop\程序\129\lalala\lalala\obj\x86\Debug\lalala.vbproj.GenerateResource.Cache
+D:\Users\Y400\Desktop\程序\129\lalala\lalala\obj\x86\Debug\lalala.exe
+D:\Users\Y400\Desktop\程序\129\lalala\lalala\obj\x86\Debug\lalala.xml
+D:\Users\Y400\Desktop\程序\129\lalala\lalala\obj\x86\Debug\lalala.pdb
+D:\Users\Y400\Desktop\毕业设计\main\lalala\obj\x86\Debug\lalala.exe
+D:\Users\Y400\Desktop\毕业设计\main\lalala\obj\x86\Debug\lalala.xml
+D:\Users\Y400\Desktop\毕业设计\main\lalala\obj\x86\Debug\lalala.pdb
