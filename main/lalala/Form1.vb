@@ -413,7 +413,7 @@ Public Class Form1
             Dim connStr As String
             Dim conn As MySqlConnection
             If Not conn Is Nothing Then conn.Close()
-            connStr = "Server=qdm170159190.my3w.com;uid=qdm170159190;pwd=chl288842;database=qdm170159190_db"
+ 
             'connStr = "Server=localhost;uid=root;pwd=;database=cc"
             conn = New MySqlConnection(connStr)
 
